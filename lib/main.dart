@@ -17,7 +17,6 @@ class _PPTState extends State<PPT> {
   int _appPoints = 0;
   int _tiePoints = 0;
 
-  //Bordas:
   Color _borderUserColor = Colors.transparent;
   Color _borderAppColor = Colors.transparent;
 
